@@ -1,5 +1,4 @@
 ## A computer engineering portfolio by Yijun .L  
-This is a collection of projects and concepts that I have worked on, categorized by languages and functions.  
 My current objective is to understand and create systems to automate previously mental intensive tasks, in order to freeup creativity into other needed area.  
 ## HMI in pc-dmis
 A self-initiated project to make executing robotics routines easier.
