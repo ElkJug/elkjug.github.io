@@ -1,4 +1,4 @@
-## A computer engineering portfolio by Yijun .L  
+## A computer engineering portfolio by Yijun [see my resume](https://drive.proton.me/urls/J8ZTCQAB14#2oJukkSLXunN)
 My current objective is to understand and create systems to automate previously mental intensive tasks, in order to freeup creativity into other needed area.  
 ## HMI in pc-dmis
 A self-initiated project to make executing robotics routines easier.
